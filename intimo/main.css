@@ -1,0 +1,67 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.container {
+  margin: 0 auto;
+  background-color: #f8f8f8;
+}
+.features h3 {
+  text-align: center;
+}
+.story, .features {
+  background-color: #f8f8f8;
+  padding-top: 7px;
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-bottom: 8px;
+}
+body {
+  background-image: url('pagebg.jpg');
+}
+.navbar-text {
+text-align: auto;
+}
+ .no-padding {
+   padding: 0;
+ }
+ .story .row {
+  background-color: #e6eff2;
+      border-radius: 6px;
+ }
+
+.navbar-nav > li > a {
+  padding-top: 22px !important;
+  padding-bottom: 22px !important;
+}
+.navbar {
+  min-height: 30px !important;
+}
+.navbar-text {
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+}
+ul.dropdown-menu {
+    background-color: #e7e7e7;
+}
+ul.dropdown-menu a {
+    color: #777 !important;
+}
+ul.dropdown-menu a:hover {
+    color: #fff !important;
+    background-color: #a3a3a3 !important;
+}
+.navbar a {
+  color: #777 !important;
+}
+.flpg {
+    border-radius: 12px;
+}
+.carousel .item {
+    border-radius: 6px;
+    background-color: rgba(0,0,0,0);
+    overflow: hidden;
+}
+.carousel-control {
+    border-radius: 6px;
+}

@@ -1,0 +1,57 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+html, body {
+  background-color: #222;
+}
+.billboard {
+  background-image: url('billboard.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 750px;
+  border-bottom: 1px solid #fff;
+}
+.navbar-nav > li > a {
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
+}
+.navbar {
+  min-height: 20px !important;
+}
+.navbar-text {
+  height: 16px ;
+}
+.blurb {
+  background-color: #223;
+  color: #fff;
+}
+.blurb h1 {
+  padding-top: 25px;
+}
+.copy1, .copy2, .copy3 {
+  padding-top: 40px;
+  margin-top: 40px auto;
+}
+.copy1 h1, .copy2 h1, .copy3 h1 {
+  padding-top: auto;
+  margin-top: auto;
+}
+.copy2 {
+  background-color: #f8f8f8;
+}
+ul.dropdown-menu {
+    background-color: #111;
+}
+ul.dropdown-menu a {
+    color: #fff !important;
+}
+ul.dropdown-menu a:hover {
+    color: #fff !important;
+    background-color: #223 !important;
+}
+
+.navbar a {
+  color: #fff !important;
+}
